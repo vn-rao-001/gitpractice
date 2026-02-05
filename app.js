@@ -24,3 +24,6 @@ if(age >= 15){
 
 let branch = 'branch code 1';
 console.log(branch);
+
+let branch1 = 'branch code 2';
+console.log(branch1);
