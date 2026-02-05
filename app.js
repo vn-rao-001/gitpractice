@@ -21,3 +21,6 @@ if(age >= 15){
 }else{
     console.log("not");
 }
+
+let branch = 'branch code 1';
+console.log(branch);
