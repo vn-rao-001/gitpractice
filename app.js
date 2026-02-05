@@ -9,5 +9,15 @@ function add(){
 let b = ++y;
 console.log(b);
 
-let c = b;
-console.log(c);
+let o = 45;
+let h = 45;
+
+let m = o + h;
+console.log("o = 45, h = 45", o);
+
+let age = 18;
+if(age >= 15){
+    console.log("adult");
+}else{
+    console.log("not");
+}
